@@ -1,7 +1,12 @@
 #!/bin/bash
 ################################
+<<<<<<< HEAD
 # Author: Sivarugada	
 # Version: v1
+=======
+# Author: Abhishek
+# Version: v1.1
+>>>>>>> 2a20564f4ba13fb414ba1b82e51cf8324d94a024
 #
 #
 #
